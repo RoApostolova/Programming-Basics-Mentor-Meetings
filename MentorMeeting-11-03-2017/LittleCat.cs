@@ -1,12 +1,8 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace FirstStepsInCoding
+namespace LittleCat
 {
-    class Hello
+    class LittleCat
     {
         static void Main(string[] args)
         { 
