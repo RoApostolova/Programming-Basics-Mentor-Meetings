@@ -1,2 +1,2 @@
 # Programming-Basics-Mentor-Meetings
-Problems in C# resolved during mentor meetings
+Tasks resolved during mentor meetings/ C#
